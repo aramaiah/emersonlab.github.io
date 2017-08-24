@@ -1,9 +1,10 @@
 # People
 
-## J.J. Emerson, PI
+## [J.J. Emerson](Emerson.md), PI
 
-## Mahul Chakraborty, Postdoctoral Researcher
 
-## Xinwen Zhang, Graduate Student
+## [Mahul Chakraborty](Chakraborty.md), Postdoctoral Researcher
 
-## Roy Zhao, Graduate Student
+## [Xinwen Zhang](Zhang.md), Graduate Student
+
+## [Roy Zhao](Zhao.md), Graduate Student
