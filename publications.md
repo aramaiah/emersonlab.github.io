@@ -1,5 +1,8 @@
 # Publications
 
+\* Equal contribution
+† Corresponding author
+
 * Chakraborty, M.†, Zhao, R., Zhang, X., Kalsow, S., and **Emerson, J.J.**†
 (2017). Extensive hidden genetic variation shapes the structure of
 functional elements in *Drosophila*. bioRxiv, 114967. [(pdf)](documents/Chakraborty2017bioRxiv.pdf)
