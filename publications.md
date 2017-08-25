@@ -1,6 +1,7 @@
 # Publications
 
 \* Equal contribution
+
 † Corresponding author
 
 * Chakraborty, M.†, Zhao, R., Zhang, X., Kalsow, S., and **Emerson, J.J.**†
