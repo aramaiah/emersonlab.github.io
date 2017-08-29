@@ -3,6 +3,10 @@
 ## Research Interests
 Text here
 
+## Contact
+Twitter: @jj_emerson<br>
+[UCI Contact Information](http://www.faculty.uci.edu/profile.cfm?faculty_id=5987)
+
 ## Academic History
 * 2013-present, Assistant Professor, Department of Ecology & Evolutionary Biology, Center for Complexy Systems Biology, UC Irvine
 * 2010-2013, Postdoctoral Researcher with Doris Bachtrog, Integrative Biology, UC Berkeley
