@@ -4,7 +4,7 @@
 Text here
 
 ## Contact
-Twitter: @jj_emerson
+Twitter: @jj_emerson<br>
 [UCI Contact Information](http://www.faculty.uci.edu/profile.cfm?faculty_id=5987)
 
 ## Academic History
