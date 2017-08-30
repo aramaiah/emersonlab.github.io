@@ -18,7 +18,7 @@
 <!-- End Jekyll SEO tag -->
 
     <link href='https://fonts.googleapis.com/css?family=Arvo:400,700,400italic' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/assets/css/style.css?v=ec2bb01bb2d787a92cafc4c4274c658c0beae54a">
+    <link rel="stylesheet" href="/assets/css/style.css?v=c684bf1689cbc3cdcdc2c94f147bfc1edaeec35b">
     <script src="/assets/js/scale.fix.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
@@ -54,18 +54,11 @@
 <p>The Emerson Lab is a very collaborative group and has ongoing projects with many labs at UCI. Below are active collaborations we are currently pursuing on campus. Please stay tuned for external collaborations page.</p>
 
 <ul>
-  <li><a href="#genomeassembly">Genome Assembly</a></li>
-  <li><a href="#drosophilapopgen">Drosophila population genomics</a></li>
+  <li><a href="#drosophilapopgen"><em>Drosophila</em> population genomics</a></li>
+  <li><a href="#genomeassembly">Genome assembly</a></li>
+  <li><a href="#fishphysgen">Fish physiology and genomics</a></li>
+  <li><a href="#experimentalevolution">Experimental evolution</a></li>
 </ul>
-
-<p><a name="genomeassembly"></a></p>
-<h2 id="genome-assembly">Genome Assembly</h2>
-
-<h3 id="tony-long">Tony Long</h3>
-
-<p><strong>We have developed an experimental and computational pipeline for assembling genomes that fuses long molecule only assemblies with assemblies constructed from both short and long molecule data. This approach yields improvements in contiguity over both methods alone with minimal compromises to accuracy and completeness.</strong></p>
-
-<p>The <a href="http://wfitch.bio.uci.edu/~tdlong/sandvox/">Long lab</a> and the Emerson Lab have been avid adopters of long-molecule sequencing approaches (specifically Pacific Biosciences RS II P6/C4 chemistry) to assemble whole genomes. However, methods for assembling such data are still developing rapidly. Some approaches (like <a href="https://github.com/marbl/canu">Canu</a>) employ only long molecules while others (like <a href="https://github.com/yechengxi/DBG2OLC">DBG2OLC</a>) combine both long and short read data in methods know as “hybrid assembly”. While for any particular data set, one method may perform better than another, they often appear to produce complementary assemblies. Mahul Chakraborty (Emerson lab) and Jim Baldwin-Brown (Long lab) have developed and evaluated a genome assembly approach called <em><a href="https://github.com/mahulchak/quickmerge">quickmerge</a></em> for genome assembly that combines two haploid assemblies in an attempt to get the best of both worlds. In the process, we established a set of best practices for attaining accurate and contiguous metazoan assemblies, spanning DNA isolation, quality control, assembly, and polishing the assembly. Our work was published in 2016 in <a href="https://academic.oup.com/nar/article/44/19/e147/2468393/Contiguous-and-accurate-de-novo-assembly-of"><em>Nucleic Acids Research</em></a>.</p>
 
 <p><a name="drosophilapopgen"></a></p>
 <h2 id="drosophila-population-genomics"><em>Drosophila</em> population genomics</h2>
@@ -74,9 +67,26 @@
 
 <p><strong>We have constructed several platinum quality <em>Drosophila simulans</em> genome assemblies in order to study population variation of structural mutations and how these mutations affect gene expression.</strong></p>
 
-<p>The <a href="http://www.molpopgen.org/">Thornton lab</a> and the Emerson lab have a long standing interest in the patterns of variation associated with structural mutations, ie mutations that add, subtract, rearrange, or otherwise sculpt genome sequences. Such mutations can include tandem duplications, transposable element insertations, inversions, translocations, etc.</p>
+<p>The <a href="http://www.molpopgen.org/">Thornton lab</a> and the Emerson lab have a long standing interest in the patterns of variation associated with structural mutations, ie mutations that add, subtract, rearrange, or otherwise sculpt genome sequences. Such mutations can include tandem duplications, transposable element insertations, inversions, translocations, etc. Since we now routinely assemble platinum quality genomes from long molecule data, we can study SV in exquisite detail. <a href="https://academic.oup.com/nar/article/44/19/e147/2468393/Contiguous-and-accurate-de-novo-assembly-of">Building off of our recent work</a>, we have assembled four <em>D. simulans</em> genomes to a level of completeness and contiguity comparable to that exhibited by the <a href="http://flybase.org/">FlyBase reference genome</a>. The Thornton lab has generated expression data for these strains as well, and we are now characterizing the mutations. We have previously noted that <a href="http://www.biorxiv.org/content/early/2017/03/08/114967">short read methods miss a significant proportion of structural variation</a>. As a result, we are finding many mutations previously hidden from discovery. Our ultimate goal is to understand how SV segregating in natural populations affects the genome, including how it changes gene structure and transcription.</p>
+
+<h3 id="tony-long">Tony Long</h3>
+
+<p><strong>We have assembled fifteen genomes of <em>Drosophila melanogaster</em>, incuding the founders of a trait mapping panel. We are using these .</strong></p>
+
+<p><a name="genomeassembly"></a></p>
+<h2 id="genome-assembly">Genome assembly</h2>
 
 <h3 id="tony-long-1">Tony Long</h3>
+
+<p><strong>We have developed an experimental and computational pipeline for assembling genomes that fuses long molecule only assemblies with assemblies constructed from both short and long molecule data. This approach yields improvements in contiguity over both methods alone with minimal compromises to accuracy and completeness.</strong></p>
+
+<p>The <a href="http://wfitch.bio.uci.edu/~tdlong/sandvox/">Long lab</a> and the Emerson Lab have been avid adopters of long-molecule sequencing approaches (specifically Pacific Biosciences RS II P6/C4 chemistry) to assemble whole genomes. However, methods for assembling such data are still developing rapidly. Some approaches (like <a href="https://github.com/marbl/canu">Canu</a>) employ only long molecules while others (like <a href="https://github.com/yechengxi/DBG2OLC">DBG2OLC</a>) combine both long and short read data in methods know as “hybrid assembly”. While for any particular data set, one method may perform better than another, they often appear to produce complementary assemblies. Mahul Chakraborty (Emerson lab) and Jim Baldwin-Brown (Long lab) have developed and evaluated a genome assembly approach called <em><a href="https://github.com/mahulchak/quickmerge">quickmerge</a></em> for genome assembly that combines two haploid assemblies in an attempt to get the best of both worlds. In the process, we established a set of best practices for attaining accurate and contiguous metazoan assemblies, spanning DNA isolation, quality control, assembly, and polishing the assembly. Our work was published in 2016 in <a href="https://academic.oup.com/nar/article/44/19/e147/2468393/Contiguous-and-accurate-de-novo-assembly-of"><em>Nucleic Acids Research</em></a>.</p>
+
+<p><a name="experimentalevolution"></a></p>
+<h2 id="experimental-evolution">Experimental evolution</h2>
+
+<h3 id="brandon-gaut">Brandon Gaut</h3>
+
 
       </section>
 
