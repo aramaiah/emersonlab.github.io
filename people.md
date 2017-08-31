@@ -1,7 +1,7 @@
 # People
 
 ## [J.J. Emerson](Emerson.md), PI
-I joined the faculty in the Department of Ecology and Evolutionary Biology at the University of California, Irvine in 2013 as an assistant professor.
+I joined the faculty at UCI in the [Department of Ecology and Evolutionary Biology](http://ecoevo.bio.uci.edu/) and the [Center for Complex Biological Systems](http://ccbs.uci.edu/) in 2013 as an assistant professor. If you'd like to know more about the lab, please explore the website. For more about me personally, please see below.
 
 * [My web page](Emerson.md)
 * [My CV](documents/J.J.EmersonCV.pdf) 
