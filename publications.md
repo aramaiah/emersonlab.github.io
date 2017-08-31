@@ -1,5 +1,9 @@
 # Publications
 
+["My Bibliography" from NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/james.emerson.1/bibliography/48761921/public/?sort=date&direction=descending)  
+[Google Scholar Profile](https://scholar.google.com/citations?user=QwE4enQAAAAJ)  
+[Orcid](http://orcid.org/0000-0001-9474-0891)  
+
 \* Equal contribution  
 † Corresponding author
 

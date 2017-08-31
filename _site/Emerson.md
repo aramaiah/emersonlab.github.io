@@ -12,6 +12,9 @@ Twitter: [@JJ_Emerson](https://twitter.com/JJ_Emerson)
 * 2006, PhD Ecology & Evolutionary Biology, University of Chicago
 * 2000, BA Ecology & Evolution and Biochemistry, Rice University
 
+## Publications
+Please see the Emerson lab [publications page](publications.md).
+
 ## Research Interests and Approaches
 I am interested in natural genetic variation, genomics, and evolution. In particular, I am interested in the evolution of new genes, the patterns and consequences of mutations that change genome structure, sex chromosome evolution, and the genetic architecture of gene expression variation. The projects that originate in my lab typically employ model organisms (e.g. fruit flies and baker's yeast), though I frequently work on non-model systems through collaboration. I use the tools of population genetics and molecular evolution in order to understand the origin and fate of genetic variation within and between species.
 
