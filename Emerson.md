@@ -3,7 +3,7 @@
 ## Contact
 Twitter: [@JJ_Emerson](https://twitter.com/JJ_Emerson)  
 [My CV](documents/J.J.EmersonCV.pdf)  
-[UCI Contact Information](https://www.faculty.uci.edu/profile.cfm?faculty_id=5987)  
+[UCI Contact Information](http://www.faculty.uci.edu/profile.cfm?faculty_id=5987)  
 
 ## Academic History
 * 2013-present, Assistant Professor, Department of Ecology & Evolutionary Biology, Center for Complexy Systems Biology, UC Irvine
