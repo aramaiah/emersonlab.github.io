@@ -2,7 +2,7 @@
 
 ## Contact
 Twitter: [@JJ_Emerson](https://twitter.com/JJ_Emerson)  
-[My CV](documents/J.J.EmersonCV.pdf)  
+[My CV](/documents/J.J.EmersonCV.pdf)  
 [UCI Contact Information](http://www.faculty.uci.edu/profile.cfm?faculty_id=5987)  
 
 ## Academic History
@@ -13,14 +13,14 @@ Twitter: [@JJ_Emerson](https://twitter.com/JJ_Emerson)
 * 2000, BA Ecology & Evolution and Biochemistry, Rice University
 
 ## Publications
-Please see the Emerson lab [publications page](publications.md).
+Please see the Emerson lab [publications page](/publications).
 
 ## Research Interests and Approaches
 I am interested in natural genetic variation, genomics, and evolution. In particular, I am interested in the evolution of new genes, the patterns and consequences of mutations that change genome structure, sex chromosome evolution, and the genetic architecture of gene expression variation. The projects that originate in my lab typically employ model organisms (e.g. fruit flies and baker's yeast), though I frequently work on non-model systems through collaboration. I use the tools of population genetics and molecular evolution in order to understand the origin and fate of genetic variation within and between species.
 
 ## Scientific contributions
 
-Below are selected contributions I've made in the course of my career. See also the [publications](publications.md) page.
+Below are selected contributions I've made in the course of my career. See also the [publications](/publications) page.
 
 ### Evolution of structural variation in *Drosophila*
 
