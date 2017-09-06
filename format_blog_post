@@ -223,9 +223,10 @@ with B<--url, -u>, then both should have the same number of arguments.
 
 =item B<--url, -u> I<url>
 
-Optional. URL to author's website. If this parameter is used with
-B<--author, -a>, then both should have the same number of arguments.
-To leave a URL blank, use the empty string ''.
+Optional. URL to author's website. This address is linked to the
+author's name. If this parameter is used with B<--author, -a>,
+then both should have the same number of arguments. To leave a
+URL blank, use the empty string ''.
 
 =item B<--date, -d> 'I<%Y-%m-%d %H:%M:%S %z>'
 
