@@ -237,7 +237,19 @@ current time and UTC offset.
 =head1 DESCRIPTION
 
 This tool formats a blog post in the style of the Sampling Process blog
-circa September 6, 2017.
+circa September 6, 2017. The only required parameter is the B<--title, -t>.
+Without any parameters, a blank blog post with appropriate YAML Front
+Matter is output into the './_posts/' directory indicating 'anonymous'
+as the author and the current time.
+
+Long blog posts that would take up too much space on the main blog post
+listing page can provide a preview by inserting a I<E<lt>!--excerpt--E<gt>>
+at the position in the post to provide as a preview.
+
+Generally speaking, the text preceding the I<E<lt>!--excerpt--E<gt>>
+break should not contain major section formatting to conform to the
+blog's style. This is because section headers will appear in the
+post previews on the blog listing page.
 
 =head1 EXAMPLES
 
@@ -251,6 +263,9 @@ circa September 6, 2017.
 
  # Specify a title and an author and a url.
  $ format_blog_post --title 'Yet another title' --author 'John Doe' --url /people/Doe.html
+
+ # Specify an alternate date.
+ $ format_blog_post --date '2017-08-21 12:00:00 -0700' --title 'Latest Blog Post' --author 'John Doe' --url /people/Doe.html
 
 =head1 AUTHOR
 
