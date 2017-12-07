@@ -10,7 +10,7 @@ Candidates will ideally have interests broadly relevant to these themes but will
 
 ## Expectations
 
-The successful candidate will have a PhD in the following or related fields: evolutionary genetics, bioinformatics, computational biology, statistics, or experimental genomics (especially high throughput sequencing). The candidate will conduct research, write papers, and attend research conferences. As part of mentoring, the ideal candidate will contribute to the UCI evolutionary genetics community by attending and presenting at journal club, and presenting group meetings. Finally, applicants interested in academics will gain experience grant writing by submitting applying fellowship applications.
+The successful candidate will have a PhD in the following or related fields: evolutionary genetics, bioinformatics, computational biology, statistics, or experimental genomics (especially high throughput sequencing). The candidate will conduct research, write papers, and attend research conferences. As part of mentoring, the ideal candidate will contribute to the UCI evolutionary genetics community by attending and presenting at journal club, and presenting group meetings. Finally, applicants interested in academics will gain experience grant writing by submitting fellowship applications.
 
 ## Environment
 
