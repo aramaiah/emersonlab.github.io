@@ -16,10 +16,12 @@ The Emerson lab is affiliated with the [Department of Ecology & Evolutionary Bio
 
 ## Apply
 
-Interested applicants should send application materials [via the UCI Recruit website](https://recruit.ap.uci.edu/apply/JPF04423). Instructions for applying are there as well. Be prepared with the following:
+If you'd like to make an inquirty, [contact me](http://emersonlab.org/people/Emerson.html). Interested applicants can apply [via the UCI Recruit website](https://recruit.ap.uci.edu/apply/JPF04423). Be prepared with the following:
 
 Applications should include:
 * full academic CV;
 * cover letter;
 * research statement explaining your previous research experience and future research objectives; and
 * contact information of two or more references.
+
+Documents marked as "Optional" are not required for this application.
