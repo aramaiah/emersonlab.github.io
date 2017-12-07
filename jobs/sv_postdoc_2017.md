@@ -2,7 +2,11 @@
 
 ## Summary
 
-We are soliciting candidates for an NIH funded postdoctoral position. The position will broadly fit into the category of [*Drosophila* comparative population genomics with a focus on structural variation](/research/#drosophilasvs). The main focus of the project is to understand how mutation, natural selection, and genetic drift affect the evolution of genome structure. Candidates will ideally have interests broadly relevant to these themes but will also be offered opportunities to pursue their own interests in evolutionary genetics. The Emerson lab is very collaborative, and we encourage those who are interested to consider collaborative projects with other UCI faculty. See our [collaborators page](/collaborators).
+We are soliciting candidates for an NIH funded postdoctoral position. The position will broadly fit into the category of [*Drosophila* comparative population genomics with a focus on structural variation](/research/#drosophilasvs). The main focus of the project is to understand how mutation, natural selection, and genetic drift affect the evolution of genome structure.
+
+Consideration of applications will begin on 2017-01-05 and will continue until the position is filled. For full consideration, please apply by this date.
+
+Candidates will ideally have interests broadly relevant to these themes but will also be offered opportunities to pursue their own interests in evolutionary genetics. The Emerson lab is very collaborative, and we encourage those who are interested to consider collaborative projects with other UCI faculty. See our [collaborators page](/collaborators).
 
 ## Expectations
 
