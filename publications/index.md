@@ -8,10 +8,10 @@
 † Corresponding author
 
 <a name = 'p21'></a>
-* Chakraborty, M.†, Zhao, R., Zhang, X., Kalsow, S., and **Emerson, J.J.**†
-(2017). Extensive hidden genetic variation shapes the structure of
-functional elements in *Drosophila*. bioRxiv, 114967.  
-[(pdf)](/documents/Chakraborty2017bioRxiv.pdf) [(doi)](https://doi.org/10.1101/114967)
+* Chakraborty, M.†, VanKuren, N.W., Zhao, R., Zhang, X., Kalsow, S., and **Emerson, J.J.**† (2017).
+Hidden genetic variation shapes the structure of
+functional elements in *Drosophila*. Nature Genetics.  
+[(pdf)](/documents/Chakraborty2017NatureGenetics.pdf) [(doi)](https://doi.org/10.1038/s41588-017-0010-y)
 
 <a name = 'p20'></a>
 * **Emerson, J.J.**† (2017). Evolution: A Paradigm Shift in Snake Sex
