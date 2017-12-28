@@ -1,5 +1,9 @@
 # Postdoctoral position in *Drosophila* evolutionary genomics
 
+**New!**: The [first structural variation paper](http://emersonlab.org/publications/#p21) for this project just came out in *Nature Genetics*. If you thought this paper was interesting, this is the job for you!
+
+Interested applicants can apply [via the UCI Recruit website](https://recruit.ap.uci.edu/apply/JPF04423). Read below for more about the job, the Emerson Lab, and the excellent research environment at UCI.
+
 ## Summary
 
 We are soliciting candidates for an NIH funded postdoctoral position. The position will broadly fit into the category of [*Drosophila* comparative population genomics with a focus on structural variation](/research/#drosophilasvs). The main focus of the project is to understand how mutation, natural selection, and genetic drift affect the evolution of genome structure.
