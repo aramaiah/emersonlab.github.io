@@ -2,7 +2,7 @@
 
 **New!** The [first structural variation paper](http://emersonlab.org/publications/#p21) for this project just came out in *Nature Genetics*. If you thought this paper was interesting, this is the job for you!
 
-Interested applicants can apply [via the UCI Recruit website](https://recruit.ap.uci.edu/apply/JPF04423). Read below for more about the job, the Emerson Lab, and the excellent research environment at UCI.
+Interested applicants can apply immediately [via the UCI Recruit website](https://recruit.ap.uci.edu/apply/JPF04423). Read below for more about the job, the Emerson Lab, and the excellent research environment at UCI.
 
 ## Summary
 
