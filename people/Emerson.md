@@ -1,4 +1,5 @@
 # J.J. Emerson
+![J.J. Emerson](/images/Emerson.png)
 
 ## Contact
 Twitter: [@JJ_Emerson](https://twitter.com/JJ_Emerson)  
