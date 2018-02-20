@@ -7,6 +7,13 @@
 \* Equal contribution  
 † Corresponding author
 
+<a name = 'p22'></a>
+* Solares E.A.\*, Chakraborty M.\*,  Miller D.E., Kalsow S., Hall K.E., Perera A.G.,
+**Emerson, J.J.**†, Hawley R.S.†
+Rapid low-cost assembly of the *Drosophila melanogaster* reference genome
+using low-coverage, long-read sequencing. bioRxiv 267401. <br>
+[(pdf)](/documents/Solares2018bioRxiv.pdf) [(doi)](https://doi.org/10.1101/267401)
+
 <a name = 'p21'></a>
 * Chakraborty, M.†, VanKuren, N.W., Zhao, R., Zhang, X., Kalsow, S., and **Emerson, J.J.**† (2018).
 Hidden genetic variation shapes the structure of
