@@ -48,7 +48,7 @@ Constraints on Trans- and Cis-Regulatory Changes in Yeast. Mol Biol Evol
 * Vicoso B.\*, **Emerson J.J.**\*, Zektser Y., Mahajan S., and Bachtrog
 D. (2013). Comparative Sex Chromosome Genomics in Snakes:
 Differentiation, Evolutionary Strata, and Lack of Global Dosage
-Compensation. PLOS Biology *11*, e1001643.  
+Compensation. PLoS Biology *11*, e1001643.  
 [(pdf)](/documents/Vicoso2013PLoSBio.pdf) [(doi)](https://doi.org/10.1371/journal.pbio.1001643) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3754893/)
 
 <a name = 'p15'></a>
@@ -62,7 +62,7 @@ Genetics *8*, e1003080.
 <a name = 'p14'></a>
 * Cardoso-Moreira M., **Emerson J.J.**, Clark A.G., and Long M.
 (2011). *Drosophila* Duplication Hotspots Are Associated with
-Late-Replicating Regions of the Genome. PLOS Genetics *7*, e1002340.  
+Late-Replicating Regions of the Genome. PLoS Genetics *7*, e1002340.  
 [(pdf)](/documents/Cardoso-Moreira2011PLoSGen.pdf) [(doi)](https://doi.org/10.1371/journal.pgen.1002340) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3207856/)
 
 <a name = 'p13'></a>
