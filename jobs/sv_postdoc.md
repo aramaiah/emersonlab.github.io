@@ -2,13 +2,11 @@
 
 **New!** The [first structural variation paper](http://emersonlab.org/publications/#p21) for this project just came out in *Nature Genetics*. If you thought this paper was interesting, this is the job for you!
 
-Interested applicants can apply immediately [via the UCI Recruit website](https://recruit.ap.uci.edu/apply/JPF04423). Read below for more about the job, the Emerson Lab, and the excellent research environment at UCI.
-
-If you think you might be interested, but aren't sure, feel free to make an informal inquiry. [Contact me](http://emersonlab.org/people/Emerson.html), send me your CV, and give me a brief description about why you're interested in the ad. Also, ask any questions you have. I'd be happy to answer them.
+Interested applicants should send a letter of inquiry. [Contact me](http://emersonlab.org/people/Emerson.html), send me your CV, and give me a brief description about why you're interested in the ad. Also, ask any questions you have. I'd be happy to answer them.
 
 ## Summary
 
-We are soliciting candidates for an NIH funded postdoctoral position. The position will broadly fit into the category of [*Drosophila* comparative population genomics with a focus on structural variation](/research/#drosophilasvs). The main focus of the project is to understand how mutation, natural selection, and genetic drift affect the evolution of genome structure.
+We are soliciting two postdoctoral positions, supported by NIH and and the Tata Institute for Genetics and Society. The position will broadly fit into the category of comparative population genomics with a focus on structural variation in [*Drosophila*](/research/#drosophilasvs) and mosquitoes. The main focus of the project is to understand how mutation, natural selection, and genetic drift affect the evolution of genome structure.
 
 Consideration of applications will begin immediately and will continue until the position is filled.
 
@@ -22,16 +20,4 @@ The successful candidate will have a PhD in the following or related fields: evo
 
 The evolutionary genetics community at UCI is extremely interactive and offers ample opportunities to interact and collaborate with other labs at UCI, including the [Briscoe](http://visiongene.bio.uci.edu/Adriana_Briscoe/Briscoe_Lab.html), [Gaut](http://gautlab.bio.uci.edu/), [Long](http://wfitch.bio.uci.edu/~tdlong/sandvox/), and [Thornton](http://www.molpopgen.org/) labs. We are a diverse group that works on species like fruitflies, brewer's yeast, butterflies, crop species, and *E. coli*. We apply many methods including genomics, population genetics theory and inference, quantitative genetics, or experimental evolution.
 
-The Emerson lab is affiliated with the [Department of Ecology & Evolutionary Biology](http://ecoevo.bio.uci.edu/), the [Center for Complex Systems Biology](http://ccbs.uci.edu/), and the [Center for Evolutionary Genetics at UCI](http://evogen.bio.uci.edu/) as well as the Southern California Evolutionary Genetics Meeting. For more about the academic and professional environment that the Emerson lab is part of, see our [collaborators page](/collaborators).
-
-## Apply
-
-Interested applicants can apply [via the UCI Recruit website](https://recruit.ap.uci.edu/apply/JPF04423). Be prepared with the following:
-
-Applications should include:
-* full academic CV;
-* cover letter;
-* research statement explaining your previous research experience and future research objectives; and
-* contact information of two or more references.
-
-Documents marked as "Optional" are not required for this application.
+The Emerson lab is affiliated with the [Department of Ecology & Evolutionary Biology](http://ecoevo.bio.uci.edu/), the [Center for Complex Systems Biology](http://ccbs.uci.edu/), and the [Center for Evolutionary Genetics at UCI](http://evogen.bio.uci.edu/) as well as the Southern California Evolutionary Genetics Meeting. We also interact with the [Tata Institute for Genetics and Society](http://tigs.ucsd.edu/), and are currently working on *Anopheles* genomics with Tony James and Ethan Bier. For more about the academic and professional environment that the Emerson lab is part of, see our [collaborators page](/collaborators).
