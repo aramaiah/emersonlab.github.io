@@ -6,7 +6,7 @@ Interested applicants should send a letter of inquiry. [Contact me](http://emers
 
 ## Summary
 
-We are soliciting two postdoctoral positions, supported by NIH and and the Tata Institute for Genetics and Society. The position will broadly fit into the category of comparative population genomics with a focus on structural variation in [*Drosophila*](/research/#drosophilasvs) and mosquitoes. The main focus of the project is to understand how mutation, natural selection, and genetic drift affect the evolution of genome structure.
+We are soliciting up to two postdoctoral positions. The position will broadly fit into the category of comparative population genomics with a focus on structural variation in [*Drosophila*](/research/#drosophilasvs) and offers opportunities for working in mosquitoes. The main focus of the project is to understand how mutation, natural selection, and genetic drift affect the evolution of genome structure.
 
 Consideration of applications will begin immediately and will continue until the position is filled.
 
