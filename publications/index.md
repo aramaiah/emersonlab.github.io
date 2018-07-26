@@ -11,14 +11,14 @@
 * Solares E.A.\*, Chakraborty M.\*,  Miller D.E., Kalsow S., Hall K.E., Perera A.G.,
 **Emerson, J.J.**†, Hawley R.S.† (2018).
 Rapid low-cost assembly of the *Drosophila melanogaster* reference genome
-using low-coverage, long-read sequencing. G3: GENES, GENOMES, GENETICS Early online July 17, 2018. <br>
+using low-coverage, long-read sequencing. G3: Genes, Genomes, Genetics. Early online July 17, 2018. <br>
 [(pdf)](/documents/Solares2018G3early.pdf) [(doi)](https://doi.org/10.1534/g3.118.200162)
 
 <a name = 'p21'></a>
 * Chakraborty M.†, VanKuren N.W., Zhao R., Zhang X., Kalsow S., and **Emerson J.J.**† (2018).
 Hidden genetic variation shapes the structure of
 functional elements in *Drosophila*. Nature Genetics *50*, 20-25.  
-[(pdf)](/documents/Chakraborty2018NatureGenetics.pdf) [(doi)](https://doi.org/10.1038/s41588-017-0010-y) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742068/)
+[(pdf)](/documents/Chakraborty2018NatureGenetics.pdf) [(doi)](https://doi.org/10.1038/s41588-017-0010-y) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742068/) [(supp)](/documents/Chakraborty2018NatureGeneticsSupplement.tgz)
 
 <a name = 'p20'></a>
 * **Emerson J.J.**† (2017). Evolution: A Paradigm Shift in Snake Sex
