@@ -18,7 +18,7 @@ using low-coverage, long-read sequencing. G3: GENES, GENOMES, GENETICS Early onl
 * Chakraborty M.†, VanKuren N.W., Zhao R., Zhang X., Kalsow S., and **Emerson J.J.**† (2018).
 Hidden genetic variation shapes the structure of
 functional elements in *Drosophila*. Nature Genetics *50*, 20-25.  
-[(pdf)](/documents/Chakraborty2017NatureGenetics.pdf) [(doi)](https://doi.org/10.1038/s41588-017-0010-y) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742068/)
+[(pdf)](/documents/Chakraborty2018NatureGenetics.pdf) [(doi)](https://doi.org/10.1038/s41588-017-0010-y) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742068/)
 
 <a name = 'p20'></a>
 * **Emerson J.J.**† (2017). Evolution: A Paradigm Shift in Snake Sex
