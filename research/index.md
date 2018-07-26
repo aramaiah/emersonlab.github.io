@@ -9,9 +9,8 @@ To address the evolution of mutations that sculpt genome structure, we are compa
 
 ## Expression variation in yeasts
 
-_This section is currently a work in progress._
+We are investigating the genetic architecture of expression variation by studying different yeast strains and their F1 hybrids `[`[11](http://emersonlab.org/publications/#p11), [17](http://emersonlab.org/publications/#p17)`]`. Our current focus is on statistical model development for properly measuring allele specific expression and how to apply this to single cell data.
 
 ## Experimental evolution
 
-_This section is currently a work in progress._
-
+In collaboration with Brandon Gaut, we are using [a highly replicated experimental evolution resource](https://www.ncbi.nlm.nih.gov/pubmed/22282810) to examine the distribution of fitness of effects of adaptation to an extreme change in environment (namely culturing *E. coli* at 42C). We are starting by creating a cost-effective barcoding fitness assay that will be able to accommodate thousands of fitness assays in a single lane of sequencing.
