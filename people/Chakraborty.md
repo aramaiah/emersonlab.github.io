@@ -1,12 +1,4 @@
 <h1>Mahul Chakraborty</h1>
-<h2> About me </h2>
-I did my Ph.D. from University of Rochester in 2014 and joined Emerson lab to study evolution of structural variation (SV) in Drosophila. Majority of my Ph.D. research was in functional evolutionary genetics (involving biochemistry, transgenics, phenotypic assays etc.) and therefore my knowledge and expertise in genomics and bioinformatics was limited. In the Emerson lab, I spent the last three years learning about structural variation, genome evolution, and the methods to study them. In doing so, we developed methods for high quality genome assembly and comprehensive SV detection. I like solving challenges that require imagination and free thinking. During my postdoc at UCI, I was given freedom to do both. Also during these three years, I was fortunate to work with a group that has been working with cutting edge genomics tools in Drosophila, wherein mutation discovery is facilitated by comparison between near-complete genome assemblies.
 
-When I am not probing into the Drosophila genomes, I hike or cook. I am also part of an Indian NGO named Pratyush (meaning dawn), which is actively trying to improve the lives of economially under-privileged children and women.
-
-<h2>Research interest</h2>
-
-My primary interest is centered upon understanding the molecular and evolutionary mechanisms by which heritable phenotypic variation is  maintained in natural populations. During my Ph.D. I studied how opposing selection pressures facilitate maintenance of a enzyme polymorphism in *D. melanogaster* temperate populations. I also studied how gene duplication,by creating a permanent heterozygote, could resolve such antagonism between selective forces. As most of my Ph.D. research focused upon single nucleotide variation, I wanted to study structural genetic variation during my postdoc. Thus, I chose to do my postdoc with Dr. Emerson, who collaborated closely with Dr. Tony Long and Dr. Kevin Thornton to under the functional and evolutionary consequences of structural genetic variation in Drosophila. During this time, we made a surprising observation: a large amount of structural genetic variation have remained hidden from the commonly used genotyping strategies. Indeed, the amount of hidden variation in terms of DNA sequence exceeds the total sequences changed by SNPs and small indels. Astonishingly, much of this variation was due to insertion of TEs inside genes, causing extensive variation in gene structures. 
-
-<h2>Collaboration</h2>
+Please see my website <a href="https://mahulchakraborty.wordpress.com/">here</a>
  
