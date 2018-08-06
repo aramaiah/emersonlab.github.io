@@ -12,7 +12,7 @@
 **Emerson, J.J.**†, Hawley R.S.† (2018).
 Rapid low-cost assembly of the *Drosophila melanogaster* reference genome
 using low-coverage, long-read sequencing. G3: Genes, Genomes, Genetics. Early online July 17, 2018. <br>
-[(pdf)](/documents/Solares2018G3early.pdf) [(doi)](https://doi.org/10.1534/g3.118.200162) [(supp)](https://doi.org/10.25387/g3.6813398)
+[(pdf)](/documents/Solares2018G3early.pdf) [(doi)](https://doi.org/10.1534/g3.118.200162) [(supp)](/documents/Solares2018G3Supplement.zip)
 
 <a name = 'p21'></a>
 * Chakraborty M.†, VanKuren N.W., Zhao R., Zhang X., Kalsow S., and **Emerson J.J.**† (2018).
@@ -42,14 +42,14 @@ with modest long read coverage. Nucleic Acids Res *44*, e147–e147.
 and Li W.-H. (2013). Inheritance of Gene Expression Level and Selective
 Constraints on Trans- and Cis-Regulatory Changes in Yeast. Mol Biol Evol
 *30*, 2121–2133.  
-[(pdf)](/documents/Schaefke2013MolBiolEvol.pdf) [(doi)](https://doi.org/10.1093/molbev/mst114)
+[(pdf)](/documents/Schaefke2013MolBiolEvol.pdf) [(doi)](https://doi.org/10.1093/molbev/mst114) [(supp)](/documents/Schaefke2013MolBiolEvolSupplement.zip)
 
 <a name = 'p16'></a>
 * Vicoso B.\*, **Emerson J.J.**\*, Zektser Y., Mahajan S., and Bachtrog
 D. (2013). Comparative Sex Chromosome Genomics in Snakes:
 Differentiation, Evolutionary Strata, and Lack of Global Dosage
 Compensation. PLoS Biology *11*, e1001643.  
-[(pdf)](/documents/Vicoso2013PLoSBio.pdf) [(doi)](https://doi.org/10.1371/journal.pbio.1001643) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3754893/)
+[(pdf)](/documents/Vicoso2013PLoSBio.pdf) [(doi)](https://doi.org/10.1371/journal.pbio.1001643) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3754893/) [(supp)](/documents/Vicoso2013PLoSBioSupplement.zip)
 
 <a name = 'p15'></a>
 * Pool J.E., Corbett-Detig R.B., Sugino R.P., Stevens K.A., Cardeno
@@ -57,13 +57,13 @@ C.M., Crepeau M.W., Duchen P., **Emerson J.J.**, Saelao P., Begun
 D.J., and Langley C.H. (2012). Population Genomics of Sub-Saharan *Drosophila
 melanogaster*: African Diversity and Non-African Admixture. PLoS
 Genetics *8*, e1003080.  
-[(pdf)](/documents/Pool2012PLoSGen.pdf) [(doi)](https://doi.org/10.1371/journal.pgen.1003080) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3527209/)
+[(pdf)](/documents/Pool2012PLoSGen.pdf) [(doi)](https://doi.org/10.1371/journal.pgen.1003080) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3527209/) [(supp)](/documents/Pool2012PLoSGenSupplement.zip)
 
 <a name = 'p14'></a>
 * Cardoso-Moreira M., **Emerson J.J.**, Clark A.G., and Long M.
 (2011). *Drosophila* Duplication Hotspots Are Associated with
 Late-Replicating Regions of the Genome. PLoS Genetics *7*, e1002340.  
-[(pdf)](/documents/Cardoso-Moreira2011PLoSGen.pdf) [(doi)](https://doi.org/10.1371/journal.pgen.1002340) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3207856/)
+[(pdf)](/documents/Cardoso-Moreira2011PLoSGen.pdf) [(doi)](https://doi.org/10.1371/journal.pgen.1002340) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3207856/) [(supp)](/documents/Cardoso-Moreira2011PLoSGenSupplement.zip)
 
 <a name = 'p13'></a>
 * Nikaido M., Sasaki T., **Emerson J.J.**, Aibara M., Mzighani S.I.,
