@@ -35,7 +35,7 @@ R659–R661.
 * Chakraborty M., Baldwin-Brown J.G., Long A.D., and **Emerson J.J.**†
 (2016). Contiguous and accurate de novo assembly of metazoan genomes
 with modest long read coverage. Nucleic Acids Res *44*, e147–e147.  
-[(pdf)](/documents/Chakraborty2016NucAcidsRes.pdf) [(doi)](https://doi.org/10.1093/nar/gkw654) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100563/)
+[(pdf)](/documents/Chakraborty2016NucAcidsRes.pdf) [(doi)](https://doi.org/10.1093/nar/gkw654) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100563/) [(supp)](/documents/Chakraborty2016NucAcidsResSupplement.zip)
 
 <a name = 'p17'></a>
 * Schaefke B.\*, **Emerson, J.J.**\*, Wang T.-Y., Lu M.-Y.J., Hsieh L.-C.,
