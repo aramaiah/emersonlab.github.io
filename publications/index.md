@@ -70,7 +70,7 @@ Late-Replicating Regions of the Genome. PLoS Genetics *7*, e1002340.
 Budeba Y.L., Ngatunga B.P., Iwata M., Abe Y., Li W.-H., and Okada N.
 (2011). Genetically distinct coelacanth population off the northern
 Tanzanian coast. PNAS *108*, 18009–18013.  
-[(pdf)](/documents/Nikaido2011PNAS.pdf) [(doi)](https://doi.org/10.1073/pnas.1115675108)
+[(pdf)](/documents/Nikaido2011PNAS.pdf) [(doi)](https://doi.org/10.1073/pnas.1115675108) [(supp)](/documents/Nikaido2011PNASSupplement.zip)
 
 <a name = 'p12'></a>
 * **Emerson J.J.**, and Li W.-H. (2010). The genetic basis of
@@ -84,13 +84,13 @@ Transactions of the Royal Society B: Biological Sciences *365*,
 Lu H.H.-S., Lu M.-Y.J., Wu S.-H., and Li W.-H. (2010). Natural
 selection on cis and trans regulation in yeasts. Genome Res. *20*,
 826–836.  
-[(pdf)](/documents/Emerson2010GenRes.pdf) [(doi)](https://doi.org/10.1101/gr.101576.109) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2877579/)
+[(pdf)](/documents/Emerson2010GenRes.pdf) [(doi)](https://doi.org/10.1101/gr.101576.109) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2877579/) [(supp)](/documents/Emerson2010GenResSupplement.zip)
 
 <a name = 'p10'></a>
 * **Emerson J.J.**\*†, Cardoso-Moreira M.\*†, Borevitz J.O., and Long M.
 (2008). Natural Selection Shapes Genome-Wide Patterns of Copy-Number
 Polymorphism in *Drosophila melanogaster*. Science *320*, 1629–1631.  
-[(pdf)](/documents/Emerson2008Science.pdf) [(doi)](https://doi.org/10.1126/science.1158078)
+[(pdf)](/documents/Emerson2008Science.pdf) [(doi)](https://doi.org/10.1126/science.1158078) [(supp)](/documents/Emerson2008ScienceSupplement.zip)
 
 <a name = 'p09'></a>
 * Fan C., **Emerson J.J.**, and Long M. (2007). The origin of new
@@ -115,7 +115,7 @@ E6–E7.
 * The International Chicken Genome Sequencing Consortium (2004). Sequence
 and comparative analysis of the chicken genome provide unique
 perspectives on vertebrate evolution. Nature *432*, 695–716.  
-[(pdf)](/documents/Hillier2004Nature.pdf) [(doi)](https://doi.org/10.1038/nature03154)
+[(pdf)](/documents/Hillier2004Nature.pdf) [(doi)](https://doi.org/10.1038/nature03154) [(supp)](/documents/Hillier2004NatureSupplement.zip)
 
 <a name = 'p05'></a>
 * Betran E., **Emerson J.J.**, Kaessmann H., and Long M. (2004). Sex
@@ -133,7 +133,7 @@ Nucleotide Variation and Recombination Along the Fourth Chromosome in
 * **Emerson J.J.**\*, Kaessmann H.\*, Betrán E., and Long M. (2004).
 Extensive Gene Traffic on the Mammalian X Chromosome. Science *303*,
 537–540.  
-[(pdf)](/documents/Emerson2004Science.pdf) [(doi)](https://doi.org/10.1126/science.1090042)
+[(pdf)](/documents/Emerson2004Science.pdf) [(doi)](https://doi.org/10.1126/science.1090042) [(supp)](/documents/Emerson2004ScienceSupplement.zip)
 
 <a name = 'p02'></a>
 * Strassmann J.E., Queller D.C., **Emerson J.J.**, Stagi M., Cervo R.,
