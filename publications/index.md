@@ -8,7 +8,7 @@
 † Corresponding author
 
 <a name = 'p23'></a>
-* Chakraborty M.†,  **Emerson J.J.**, Macdonald S.J., Long A.D† (2018).
+* Chakraborty M.†,  **Emerson J.J.**, Macdonald S.J., Long A.D.† (2018).
 Structural variants exhibit allelic heterogeneity and shape variation in complex traits. bioRxiv 419275.<br>
 [(pdf)](/documents/Chakraborty2018bioRxivDSPR.pdf) [(doi)](https://doi.org/10.1101/419275)
 
