@@ -7,9 +7,14 @@
 \* Equal contribution  
 † Corresponding author
 
+<a name = 'p23'></a>
+* Chakraborty M.†,  Emerson J.J., Macdonald S.J., Long A.D† (2018).
+Structural variants exhibit allelic heterogeneity and shape variation in complex traits. bioRxiv 419275.<br>
+[(pdf)](/documents/Chakraborty2018bioRxivDSPR.pdf) [(doi)](https://doi.org/10.1101/419275)
+
 <a name = 'p22'></a>
 * Solares E.A.\*, Chakraborty M.\*,  Miller D.E., Kalsow S., Hall K.E., Perera A.G.,
-**Emerson, J.J.**†, Hawley R.S.† (2018).
+**Emerson J.J.**†, Hawley R.S.† (2018).
 Rapid low-cost assembly of the *Drosophila melanogaster* reference genome
 using low-coverage, long-read sequencing. G3: Genes, Genomes, Genetics. Early online July 17, 2018. <br>
 [(pdf)](/documents/Solares2018G3early.pdf) [(doi)](https://doi.org/10.1534/g3.118.200162) [(supp)](/documents/Solares2018G3Supplement.zip)
@@ -38,7 +43,7 @@ with modest long read coverage. Nucleic Acids Res *44*, e147–e147.
 [(pdf)](/documents/Chakraborty2016NucAcidsRes.pdf) [(doi)](https://doi.org/10.1093/nar/gkw654) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100563/) [(supp)](/documents/Chakraborty2016NucAcidsResSupplement.zip)
 
 <a name = 'p17'></a>
-* Schaefke B.\*, **Emerson, J.J.**\*, Wang T.-Y., Lu M.-Y.J., Hsieh L.-C.,
+* Schaefke B.\*, **Emerson J.J.**\*, Wang T.-Y., Lu M.-Y.J., Hsieh L.-C.,
 and Li W.-H. (2013). Inheritance of Gene Expression Level and Selective
 Constraints on Trans- and Cis-Regulatory Changes in Yeast. Mol Biol Evol
 *30*, 2121–2133.  
