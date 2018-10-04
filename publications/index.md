@@ -16,7 +16,7 @@ Structural variants exhibit allelic heterogeneity and shape variation in complex
 * Solares E.A.\*, Chakraborty M.\*,  Miller D.E., Kalsow S., Hall K.E., Perera A.G.,
 **Emerson J.J.**†, Hawley R.S.† (2018).
 Rapid low-cost assembly of the *Drosophila melanogaster* reference genome
-using low-coverage, long-read sequencing. G3: Genes, Genomes, Genetics vol. 8 **no. 10** 3143-3154. <br>
+using low-coverage, long-read sequencing. G3: Genes, Genomes, Genetics *8* 3143-3154. <br>
 [(pdf)](/documents/Solares2018G3.pdf) [(doi)](https://doi.org/10.1534/g3.118.200162) [(supp)](/documents/Solares2018G3Supplement.zip)
 
 <a name = 'p21'></a>
