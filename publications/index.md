@@ -25,13 +25,13 @@ Structural variants exhibit allelic heterogeneity and shape variation in complex
 **Emerson J.J.**†, Hawley R.S.† (2018).
 Rapid low-cost assembly of the *Drosophila melanogaster* reference genome
 using low-coverage, long-read sequencing. G3: Genes, Genomes, Genetics *8* 3143-3154. <br>
-[(pdf)](/documents/Solares2018G3.pdf) [(doi)](https://doi.org/10.1534/g3.118.200162) [(supp)](/documents/Solares2018G3Supplement.zip)
+[(pdf)](/documents/Solares2018G3.pdf) [(doi)](https://doi.org/10.1534/g3.118.200162) [(supp)](/documents/Solares2018G3Supplement.zip) [(preprint)](https://doi.org/10.1101/267401)
 
 <a name = 'p21'></a>
 * Chakraborty M.†, VanKuren N.W., Zhao R., Zhang X., Kalsow S., and **Emerson J.J.**† (2018).
 Hidden genetic variation shapes the structure of
 functional elements in *Drosophila*. Nature Genetics *50*, 20-25.  
-[(pdf)](/documents/Chakraborty2018NatureGenetics.pdf) [(doi)](https://doi.org/10.1038/s41588-017-0010-y) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742068/) [(supp)](/documents/Chakraborty2018NatureGeneticsSupplement.zip)
+[(pdf)](/documents/Chakraborty2018NatureGenetics.pdf) [(doi)](https://doi.org/10.1038/s41588-017-0010-y) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742068/) [(supp)](/documents/Chakraborty2018NatureGeneticsSupplement.zip) [(preprint)](https://doi.org/10.1101/114967)
 
 <a name = 'p20'></a>
 * **Emerson J.J.**† (2017). Evolution: A Paradigm Shift in Snake Sex
@@ -48,7 +48,7 @@ R659–R661.
 * Chakraborty M., Baldwin-Brown J.G., Long A.D., and **Emerson J.J.**†
 (2016). Contiguous and accurate de novo assembly of metazoan genomes
 with modest long read coverage. Nucleic Acids Res *44*, e147–e147.  
-[(pdf)](/documents/Chakraborty2016NucAcidsRes.pdf) [(doi)](https://doi.org/10.1093/nar/gkw654) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100563/) [(supp)](/documents/Chakraborty2016NucAcidsResSupplement.zip)
+[(pdf)](/documents/Chakraborty2016NucAcidsRes.pdf) [(doi)](https://doi.org/10.1093/nar/gkw654) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100563/) [(supp)](/documents/Chakraborty2016NucAcidsResSupplement.zip) [(preprint)](https://doi.org/10.1101/029306)
 
 <a name = 'p17'></a>
 * Schaefke B.\*, **Emerson J.J.**\*, Wang T.-Y., Lu M.-Y.J., Hsieh L.-C.,
