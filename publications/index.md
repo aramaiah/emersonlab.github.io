@@ -10,9 +10,8 @@
 ## Preprints
 
 * Heras J.†, Chakraborty M.,  **Emerson J.J.**, German D.P. (2018).
-Physiological genomics of dietary adaptation in a marine herbivorous fish. bioRxiv NNNNNN. <br>
-_In process at bioRxiv_ <br>
-[(pdf)](/documents/Heras2018bioRxivCviol.pdf) [(doi)](https://doi.org/10.1101/)
+Physiological genomics of dietary adaptation in a marine herbivorous fish. bioRxiv 457705. <br>
+[(pdf)](/documents/Heras2018bioRxivCviol.pdf) [(doi)](https://doi.org/10.1101/457705)
 
 * Chakraborty M.†,  **Emerson J.J.**, Macdonald S.J., Long A.D.† (2018).
 Structural variants exhibit allelic heterogeneity and shape variation in complex traits. bioRxiv 419275. <br>
