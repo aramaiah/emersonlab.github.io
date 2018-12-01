@@ -19,6 +19,11 @@ Structural variants exhibit allelic heterogeneity and shape variation in complex
 
 ## Published
 
+<a name = 'p23'></a>
+* Zhang X. and **Emerson J.J.**† (2018).
+Inferring Compensatory Evolution of _cis_- and _trans_-Regulatory Variation. Trends in Genetics (In Press Corrected Proof). <br>
+[(pdf)](/documents/Zhang2018TiG.pdf) [(doi)](https://doi.org/10.1016/j.tig.2018.11.003)
+
 <a name = 'p22'></a>
 * Solares E.A.\*, Chakraborty M.\*,  Miller D.E., Kalsow S., Hall K.E., Perera A.G.,
 **Emerson J.J.**†, Hawley R.S.† (2018).
@@ -38,7 +43,7 @@ Chromosome Genetics. Current Biology *27*, R800–R803.
 [(pdf)](/documents/Emerson2017CurrBiol.pdf) [(doi)](https://doi.org/10.1016/j.cub.2017.06.079)
 
 <a name = 'p19'></a>
-* Long M.\*†, and **Emerson J.J.**\*† (2017). Meiotic Sex Chromosome
+* Long M.\*† and **Emerson J.J.**\*† (2017). Meiotic Sex Chromosome
 Inactivation: Compensation by Gene Traffic. Current Biology *27*,
 R659–R661.  
 [(pdf)](/documents/Long2017CurrBiol.pdf) [(doi)](https://doi.org/10.1016/j.cub.2017.05.077)
@@ -85,7 +90,7 @@ Tanzanian coast. PNAS *108*, 18009–18013.
 [(pdf)](/documents/Nikaido2011PNAS.pdf) [(doi)](https://doi.org/10.1073/pnas.1115675108) [(supp)](/documents/Nikaido2011PNASSupplement.zip)
 
 <a name = 'p12'></a>
-* **Emerson J.J.**, and Li W.-H. (2010). The genetic basis of
+* **Emerson J.J.** and Li W.-H. (2010). The genetic basis of
 evolutionary change in gene expression levels. Philosophical
 Transactions of the Royal Society B: Biological Sciences *365*,
 2581–2590.  
