@@ -20,9 +20,9 @@ Structural variants exhibit allelic heterogeneity and shape variation in complex
 ## Published
 
 <a name = 'p23'></a>
-* Zhang X. and **Emerson J.J.**† (2018).
-Inferring Compensatory Evolution of _cis_- and _trans_-Regulatory Variation. Trends in Genetics (In Press Corrected Proof). <br>
-[(pdf)](/documents/Zhang2018TiG.pdf) [(doi)](https://doi.org/10.1016/j.tig.2018.11.003)
+* Zhang X. and **Emerson J.J.**† (2019).
+Inferring Compensatory Evolution of _cis_- and _trans_-Regulatory Variation. Trends in Genetics *35* 1-3. <br>
+[(pdf)](/documents/Zhang2019TiG.pdf) [(doi)](https://doi.org/10.1016/j.tig.2018.11.003)
 
 <a name = 'p22'></a>
 * Solares E.A.\*, Chakraborty M.\*,  Miller D.E., Kalsow S., Hall K.E., Perera A.G.,
