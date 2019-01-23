@@ -17,12 +17,12 @@ Physiological genomics of dietary adaptation in a marine herbivorous fish. bioRx
 Structural variants exhibit allelic heterogeneity and shape variation in complex traits. bioRxiv 419275. <br>
 [(pdf)](/documents/Chakraborty2018bioRxivDSPR.pdf) [(doi)](https://doi.org/10.1101/419275)
 
-## Published
+## Peer Reviewed
 
 <a name = 'p23'></a>
 * Zhang X. and **Emerson J.J.**† (2019).
 Inferring Compensatory Evolution of _cis_- and _trans_-Regulatory Variation. Trends in Genetics *35* 1-3. <br>
-[(pdf)](/documents/Zhang2019TiG.pdf) [(doi)](https://doi.org/10.1016/j.tig.2018.11.003)
+[(pdf)](/documents/Zhang2019TiG.pdf) [(doi)](https://doi.org/10.1016/j.tig.2018.11.003) [(supp)](/documents/Zhang2019TiGSupplement.docx)
 
 <a name = 'p22'></a>
 * Solares E.A.\*, Chakraborty M.\*,  Miller D.E., Kalsow S., Hall K.E., Perera A.G.,
