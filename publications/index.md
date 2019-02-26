@@ -17,7 +17,7 @@ Physiological genomics of dietary adaptation in a marine herbivorous fish. bioRx
 Structural variants exhibit allelic heterogeneity and shape variation in complex traits. bioRxiv 419275. <br>
 [(pdf)](/documents/Chakraborty2018bioRxivDSPR.pdf) [(doi)](https://doi.org/10.1101/419275)
 
-## Peer Reviewed
+## Published
 
 <a name = 'p23'></a>
 * Zhang X. and **Emerson J.J.**† (2019).
